@@ -40,6 +40,7 @@ module.exports = function (app)
       let id = req.params.id;
       
       if (req.body) {
+        
         let data = fs.readFileSync(path.resolve(__dirname, '../../db/notes.json'))
         let jsondata = JSON.parse(data);
     
