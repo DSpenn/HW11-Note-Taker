@@ -43,7 +43,7 @@ The following images show the web application's appearance and functionality:
 --
 [X] Application front end must connect to an Express.js back end.
 [X] Application back end must store notes that have a unique id in a JSON file.
-[X] Application must be deployed to Heroku. [https://sheltered-forest-24497.herokuapp.com/](https://sheltered-forest-24497.herokuapp.com/)
+[X] Application must be deployed to Heroku.
 [X] Application deployed at live URL.
 [X] Application loads with no errors.
 [X] Application GitHub URL submitted.
