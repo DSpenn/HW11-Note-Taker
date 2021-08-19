@@ -36,12 +36,12 @@ The following images show the web application's appearance and functionality:
 [X] `GET /notes` should return the `notes.html` file.
 [X] `GET *` should return the `index.html` file.
 -API routes
-[X] `GET /api/notes` should read the `db.json` file and return all saved notes as JSON.\
+[X] `GET /api/notes` should read the `db.json` file and return all saved notes as JSON.
 [X] `POST /api/notes` should receive a new note to save on the request body, add it to the `db.json` file, and then return the new note to the client.
 --
 [X] Application front end must connect to an Express.js back end.
-[X] Application back end must store notes that have a unique id in a JSON file.!!!!!!!
-[X] Application must be deployed to Heroku. https://dashboard.heroku.com/apps/sheltered-forest-24497
+[X] Application back end must store notes that have a unique id in a JSON file.
+[X] Application must be deployed to Heroku. https://sheltered-forest-24497.herokuapp.com/
 [X] Application deployed at live URL.
 [X] Application loads with no errors.
 [X] Application GitHub URL submitted.
